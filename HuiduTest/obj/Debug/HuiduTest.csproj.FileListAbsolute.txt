@@ -1,0 +1,16 @@
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\bin\Debug\HuiduTest.exe.config
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\bin\Debug\HuiduTest.exe
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\bin\Debug\HuiduTest.pdb
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\bin\Debug\SDKLibrary.dll
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.csproj.AssemblyReference.cache
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\MainWindow.g.cs
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\App.g.cs
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest_MarkupCompile.cache
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\MainWindow.baml
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.g.resources
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.Properties.Resources.resources
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.csproj.GenerateResource.cache
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.csproj.CoreCompileInputs.cache
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.csproj.Up2Date
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.exe
+C:\Users\munho\STUDY_C#\HuiduTest\HuiduTest\obj\Debug\HuiduTest.pdb
