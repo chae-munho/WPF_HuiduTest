@@ -136,8 +136,8 @@ namespace HuiduTest
                     guid = Guid.NewGuid().ToString(),
                     x = 0,
                     y = 0,
-                    width = info.screenWidth,
-                    height = info.screenHeight
+                    width = 190,
+                    height = 90
                 });
 
                 var textItem = new TextAreaItemParam()
@@ -149,7 +149,7 @@ namespace HuiduTest
                     color = System.Drawing.Color.Red
                 };
 
-                // ↓ 이 부분만 '객체 생성' 대신 '필드 설정'으로 변경
+                // 이 부분만 '객체 생성' 대신 '필드 설정'으로 변경
                 textItem.effect.inEffet = EffectType.IMMEDIATE_SHOW;
                 textItem.effect.outEffet = EffectType.NOT_CLEAR_AREA;
                 textItem.effect.inSpeed = 5;
@@ -199,14 +199,14 @@ namespace HuiduTest
 
             try
             {
-                // 1️⃣ 먼저 장치로 업로드
+                // 1먼저 장치로 업로드
                 var uploadInfo = _selected.AddUploadFile(_selectedImage, false);
                 _selected.StartUploadFile();
 
                 Thread.Sleep(1000); // 업로드 대기 (필요 시 이벤트 기반으로 변경 가능)
                 string fileName = System.IO.Path.GetFileName(_selectedImage);
 
-                // 2️⃣ 화면 구성
+                // 화면 구성
                 var info = _selected.GetDeviceInfo();
                 var screen = new HdScreen(new ScreenParam() { isNewScreen = true });
                 var program = new HdProgram(new ProgramParam() { guid = Guid.NewGuid().ToString(), type = ProgramType.normal });
