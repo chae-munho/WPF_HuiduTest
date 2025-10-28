@@ -20,11 +20,27 @@
 
             <GroupBox Header="Log" FontWeight="Bold">
                 <ListBox x:Name="LogList"
-                         Height="480"
-                         Background="Black"
-                         Foreground="Lime"
-                         FontFamily="Consolas"/>
+             Height="480"
+             Background="Black"
+             Foreground="Lime"
+             FontFamily="Consolas"
+             ScrollViewer.VerticalScrollBarVisibility="Auto"
+             ScrollViewer.HorizontalScrollBarVisibility="Auto"
+             HorizontalContentAlignment="Left">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <!-- 줄바꿈 금지 설정 -->
+                            <TextBlock Text="{Binding}"
+                           TextWrapping="NoWrap"
+                           FontFamily="Consolas"
+                           Foreground="Lime"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
             </GroupBox>
+
+
+
         </StackPanel>
 
         <!-- RIGHT: Controls -->
@@ -55,4 +71,3 @@
         </StackPanel>
     </Grid>
 </Window>
-

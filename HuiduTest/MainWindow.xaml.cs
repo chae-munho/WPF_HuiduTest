@@ -160,12 +160,12 @@ namespace HuiduTest
 
 
                 string xml = _selected.SendScreen(screen);
-                Log("✅ Text sent successfully!");
+                Log("Text sent successfully!");
                 Log(xml);
             }
             catch (Exception ex)
             {
-                Log($"❌ SendText Error: {ex.Message}");
+                Log($" SendText Error: {ex.Message}");
             }
         }
 
@@ -227,7 +227,7 @@ namespace HuiduTest
                     file = fileName
                 };
 
-                // ↓ 동일하게 effect는 'new' 하지 말고 필드만 설정
+                // 동일하게 effect는 'new' 하지 말고 필드만 설정
                 imageItem.effect.inEffet = EffectType.IMMEDIATE_SHOW;
                 imageItem.effect.outEffet = EffectType.NOT_CLEAR_AREA;
                 imageItem.effect.inSpeed = 5;
@@ -238,12 +238,12 @@ namespace HuiduTest
 
 
                 string xml = _selected.SendScreen(screen);
-                Log("✅ Image sent successfully!");
+                Log(" Image sent successfully!");
                 Log(xml);
             }
             catch (Exception ex)
             {
-                Log($"❌ SendImage Error: {ex.Message}");
+                Log($"SendImage Error: {ex.Message}");
             }
         }
     }

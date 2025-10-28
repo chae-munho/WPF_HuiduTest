@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|c:\\users\\munho\\study_c#\\huidutest\\huidutest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -34,33 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml.cs",
-              "RelativeDocumentMoniker": "HuiduTest\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml.cs",
-              "RelativeToolTip": "HuiduTest\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:14:21.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml",
-              "RelativeDocumentMoniker": "HuiduTest\\App.xaml",
-              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml",
-              "RelativeToolTip": "HuiduTest\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T07:14:19.621Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -71,20 +46,19 @@
               "RelativeToolTip": "HuiduTest\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-15T06:59:36.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:59:36.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeviceItem.cs",
-              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
-              "RelativeDocumentMoniker": "HuiduTest\\Models\\DeviceItem.cs",
-              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
-              "RelativeToolTip": "HuiduTest\\Models\\DeviceItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HuiduTest\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HuiduTest\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAOcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:59:22.785Z",
+              "WhenOpened": "2025-10-15T06:49:08.973Z",
               "EditorCaption": ""
             },
             {
@@ -101,15 +75,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml",
+              "RelativeDocumentMoniker": "HuiduTest\\App.xaml",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml",
+              "RelativeToolTip": "HuiduTest\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T07:14:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HuiduTest\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml.cs",
-              "RelativeToolTip": "HuiduTest\\MainWindow.xaml.cs",
-              "ViewState": "AgIAANQAAAAAAAAAAAAAAOEAAAA1AAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HuiduTest\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml.cs",
+              "RelativeToolTip": "HuiduTest\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:49:08.973Z",
+              "WhenOpened": "2025-10-15T07:14:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceItem.cs",
+              "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
+              "RelativeDocumentMoniker": "HuiduTest\\Models\\DeviceItem.cs",
+              "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
+              "RelativeToolTip": "HuiduTest\\Models\\DeviceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:59:22.785Z",
               "EditorCaption": ""
             }
           ]
