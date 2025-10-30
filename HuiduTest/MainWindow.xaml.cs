@@ -136,8 +136,8 @@ namespace HuiduTest
                     guid = Guid.NewGuid().ToString(),
                     x = 0,
                     y = 0,
-                    width = 190,
-                    height = 90
+                    width = 192,
+                    height = 128
                 });
 
                 var textItem = new TextAreaItemParam()
@@ -146,7 +146,7 @@ namespace HuiduTest
                     text = TextInput.Text,
                     fontName = "Arial",
                     fontSize = 32,
-                    color = System.Drawing.Color.Red
+                    color = System.Drawing.Color.Yellow
                 };
 
                 // 이 부분만 '객체 생성' 대신 '필드 설정'으로 변경
@@ -217,8 +217,8 @@ namespace HuiduTest
                     guid = Guid.NewGuid().ToString(),
                     x = 0,
                     y = 0,
-                    width = info.screenWidth,
-                    height = info.screenHeight
+                    width = 192,
+                    height = 128
                 });
 
                 var imageItem = new ImageAreaItemParam()
