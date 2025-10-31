@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\models\\deviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|solutionrelative:huidutest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CCEC506-9791-47EA-A4A8-CA2613215386}|HuiduTest\\HuiduTest.csproj|C:\\Users\\munho\\STUDY_C#\\HuiduTest\\huidutest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -56,21 +56,22 @@
               "RelativeDocumentMoniker": "HuiduTest\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml.cs",
               "RelativeToolTip": "HuiduTest\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAAAIoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T06:49:08.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HuiduTest\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\MainWindow.xaml",
               "RelativeToolTip": "HuiduTest\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T06:49:09.385Z"
+              "WhenOpened": "2025-10-15T06:49:09.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,7 +82,8 @@
               "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\App.xaml",
               "RelativeToolTip": "HuiduTest\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T07:14:19.621Z"
+              "WhenOpened": "2025-10-15T07:14:19.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,15 +99,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DeviceItem.cs",
               "DocumentMoniker": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
               "RelativeDocumentMoniker": "HuiduTest\\Models\\DeviceItem.cs",
               "ToolTip": "C:\\Users\\munho\\STUDY_C#\\HuiduTest\\HuiduTest\\Models\\DeviceItem.cs",
               "RelativeToolTip": "HuiduTest\\Models\\DeviceItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:59:22.785Z"
+              "WhenOpened": "2025-10-15T06:59:22.785Z",
+              "EditorCaption": ""
             }
           ]
         }
